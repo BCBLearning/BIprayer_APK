@@ -35,4 +35,12 @@ BIPrayer est une application mobile conçue pour aider les musulmans à suivre l
 - **بعد الصلاة**: بمجرد انتهاء الأذان، يعرض التطبيق رسالة تطلب منك إعادة تفعيل وضع DND بعد الانتهاء من الصلاة.
 - **تجربة سلسة**: تضمن هذه الميزة ألا يتعارض وضع DND في هاتفك مع روتينك الروحي مع احترام تفضيلاتك.
 
----# BIprayer_APK
+## Captures d'écran
+
+![Capture d'écran 1](https://github.com/BCBLearning/BIprayer_APK/raw/main/screenshot1.jpg)
+![Capture d'écran 2](https://github.com/BCBLearning/BIprayer_APK/raw/main/screenshot2.jpg)
+
+
+## Télécharger l'APK
+
+[Télécharger BIPrayer.apk](https://github.com/BCBLearning/BIprayer_APK/raw/main/BIPrayer.apk)
